@@ -1,6 +1,6 @@
 Crispy - Chicken Burgers
 
-This is a food html template made by codewithsadee
+This is a food html template
  
 
 #---------- HEADER ----------#
